@@ -7,3 +7,5 @@ Creating a new branch is quick & simple.
 Switch to a new branch 'dev'
 
 Switch to a new branch 'dev2'
+
+return from master form gck.
