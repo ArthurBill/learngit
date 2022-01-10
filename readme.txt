@@ -5,3 +5,5 @@ Git tracks changes.
 
 Creating a new branch is quick & simple.
 Switch to a new branch 'dev'
+
+Switch to a new branch 'dev2'
